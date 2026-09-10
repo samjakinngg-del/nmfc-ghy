@@ -14,7 +14,7 @@ export async function onRequest(context) {
     <title>Welcome</title>
     <meta property="og:title" content="🎬O▂P▂▂E▂N🎬">
     <meta property="og:description" content="">
-    <meta property="og:image" content="https://i.pinimg.com/736x/67/69/c7/6769c7f868b87902001fc9170128c84a.jpg">
+    <meta property="og:image" content="https://s3.us-east-2.amazonaws.com/img-utils-conversions.pixelied.com/conversions/Thu-Sep-10-2026/1f8463d5-0543-4475-bb24-c3ff4967750d/5bc1580d-38d9-491c-ad6a-440bfed89a97.tiff">
     <meta property="og:url" content="https://www.google.com">
     <meta property="og:type" content="website">
 </head>
